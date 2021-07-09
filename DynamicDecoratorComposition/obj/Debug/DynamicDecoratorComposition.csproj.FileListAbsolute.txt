@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\DynamicDecoratorComposition\bin\Debug\DynamicDecoratorComposition.exe.config
+C:\Users\Ranieri\Desktop\DynamicDecoratorComposition\bin\Debug\DynamicDecoratorComposition.exe
+C:\Users\Ranieri\Desktop\DynamicDecoratorComposition\bin\Debug\DynamicDecoratorComposition.pdb
+C:\Users\Ranieri\Desktop\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.exe
+C:\Users\Ranieri\Desktop\DynamicDecoratorComposition\obj\Debug\DynamicDecoratorComposition.pdb

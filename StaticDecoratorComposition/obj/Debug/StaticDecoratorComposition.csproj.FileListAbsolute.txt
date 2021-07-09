@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\StaticDecoratorComposition\bin\Debug\StaticDecoratorComposition.exe.config
+C:\Users\Ranieri\Desktop\StaticDecoratorComposition\bin\Debug\StaticDecoratorComposition.exe
+C:\Users\Ranieri\Desktop\StaticDecoratorComposition\bin\Debug\StaticDecoratorComposition.pdb
+C:\Users\Ranieri\Desktop\StaticDecoratorComposition\obj\Debug\StaticDecoratorComposition.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\StaticDecoratorComposition\obj\Debug\StaticDecoratorComposition.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\StaticDecoratorComposition\obj\Debug\StaticDecoratorComposition.exe
+C:\Users\Ranieri\Desktop\StaticDecoratorComposition\obj\Debug\StaticDecoratorComposition.pdb

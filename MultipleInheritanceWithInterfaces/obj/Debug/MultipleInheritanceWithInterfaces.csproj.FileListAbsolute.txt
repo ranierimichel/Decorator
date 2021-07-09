@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\MultipleInheritanceWithInterfaces\bin\Debug\MultipleInheritanceWithInterfaces.exe.config
+C:\Users\Ranieri\Desktop\MultipleInheritanceWithInterfaces\bin\Debug\MultipleInheritanceWithInterfaces.exe
+C:\Users\Ranieri\Desktop\MultipleInheritanceWithInterfaces\bin\Debug\MultipleInheritanceWithInterfaces.pdb
+C:\Users\Ranieri\Desktop\MultipleInheritanceWithInterfaces\obj\Debug\MultipleInheritanceWithInterfaces.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\MultipleInheritanceWithInterfaces\obj\Debug\MultipleInheritanceWithInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\MultipleInheritanceWithInterfaces\obj\Debug\MultipleInheritanceWithInterfaces.exe
+C:\Users\Ranieri\Desktop\MultipleInheritanceWithInterfaces\obj\Debug\MultipleInheritanceWithInterfaces.pdb

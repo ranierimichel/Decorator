@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\DecoratorExercise\bin\Debug\DecoratorExercise.exe.config
+C:\Users\Ranieri\Desktop\DecoratorExercise\bin\Debug\DecoratorExercise.exe
+C:\Users\Ranieri\Desktop\DecoratorExercise\bin\Debug\DecoratorExercise.pdb
+C:\Users\Ranieri\Desktop\DecoratorExercise\obj\Debug\DecoratorExercise.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\DecoratorExercise\obj\Debug\DecoratorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\DecoratorExercise\obj\Debug\DecoratorExercise.exe
+C:\Users\Ranieri\Desktop\DecoratorExercise\obj\Debug\DecoratorExercise.pdb

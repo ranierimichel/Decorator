@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\AdapterDecorator\bin\Debug\AdapterDecorator.exe.config
+C:\Users\Ranieri\Desktop\AdapterDecorator\bin\Debug\AdapterDecorator.exe
+C:\Users\Ranieri\Desktop\AdapterDecorator\bin\Debug\AdapterDecorator.pdb
+C:\Users\Ranieri\Desktop\AdapterDecorator\obj\Debug\AdapterDecorator.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\AdapterDecorator\obj\Debug\AdapterDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\AdapterDecorator\obj\Debug\AdapterDecorator.exe
+C:\Users\Ranieri\Desktop\AdapterDecorator\obj\Debug\AdapterDecorator.pdb

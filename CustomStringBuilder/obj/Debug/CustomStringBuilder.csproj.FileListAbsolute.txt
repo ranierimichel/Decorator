@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\CustomStringBuilder\bin\Debug\CustomStringBuilder.exe.config
+C:\Users\Ranieri\Desktop\CustomStringBuilder\bin\Debug\CustomStringBuilder.exe
+C:\Users\Ranieri\Desktop\CustomStringBuilder\bin\Debug\CustomStringBuilder.pdb
+C:\Users\Ranieri\Desktop\CustomStringBuilder\obj\Debug\CustomStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\CustomStringBuilder\obj\Debug\CustomStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\CustomStringBuilder\obj\Debug\CustomStringBuilder.exe
+C:\Users\Ranieri\Desktop\CustomStringBuilder\obj\Debug\CustomStringBuilder.pdb
